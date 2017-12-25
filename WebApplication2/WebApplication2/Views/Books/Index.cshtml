@@ -1,0 +1,94 @@
+﻿
+@model IEnumerable<WebApplication2.Models.Book>
+
+    @{
+        ViewData["Title"] = "Index2";
+    }
+
+    <h2>Index2</h2>
+
+    <p>
+        <a asp-action="Create">Create New</a>
+
+    </p>
+    <!--><table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.BookName)
+
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.releaseDate)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.description)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.price)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.starRating)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.imageUrl)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                               @Html.DisplayFor(modelItem => item.BookName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.releaseDate)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.description)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.price)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.starRating)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.imageUrl)
+                        </td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.BookId">Edit</a> |
+                            <a asp-action="Details" asp-route-id="@item.BookId">Details</a> |
+                            <a asp-action="Delete" asp-route-id="@item.BookId">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </
+    <-->
+    <p>
+        @foreach (var item in Model)
+        {
+
+
+        <p>
+            { "@Html.DisplayNameFor(model => model.BookName)":@Html.DisplayFor(modelItem => item.BookName),
+
+            "@Html.DisplayNameFor(model => model.releaseDate)":@Html.DisplayFor(modelItem => item.releaseDate),
+
+            "@Html.DisplayNameFor(model => model.description)":@Html.DisplayFor(modelItem => item.description),
+
+            "@Html.DisplayNameFor(model => model.price)":@Html.DisplayFor(modelItem => item.price),
+
+            "@Html.DisplayNameFor(model => model.starRating)":@Html.DisplayFor(modelItem => item.starRating),
+
+            "@Html.DisplayNameFor(model => model.imageUrl)":@Html.DisplayFor(modelItem => item.imageUrl),
+
+            }
+        </p>
+
+        }
+</p>

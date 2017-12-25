@@ -1,0 +1,36 @@
+C:\Users\Chedly Binous\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.deps.json
+C:\Users\Chedly Binous\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.runtimeconfig.json
+C:\Users\Chedly Binous\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.runtimeconfig.dev.json
+C:\Users\Chedly Binous\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.dll
+C:\Users\Chedly Binous\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.pdb
+C:\Users\Chedly Binous\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Chedly Binous\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Chedly Binous\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\Chedly Binous\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfo.cs
+C:\Users\Chedly Binous\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.dll
+C:\Users\Chedly Binous\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.pdb
+C:\Users\Chedly Binous\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\user\Desktop\RANIABOUKER\RT4\Angular\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.deps.json
+C:\Users\user\Desktop\RANIABOUKER\RT4\Angular\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.runtimeconfig.json
+C:\Users\user\Desktop\RANIABOUKER\RT4\Angular\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.runtimeconfig.dev.json
+C:\Users\user\Desktop\RANIABOUKER\RT4\Angular\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.dll
+C:\Users\user\Desktop\RANIABOUKER\RT4\Angular\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.pdb
+C:\Users\user\Desktop\RANIABOUKER\RT4\Angular\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\RANIABOUKER\RT4\Angular\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RANIABOUKER\RT4\Angular\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\user\Desktop\RANIABOUKER\RT4\Angular\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RANIABOUKER\RT4\Angular\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfo.cs
+C:\Users\user\Desktop\RANIABOUKER\RT4\Angular\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.dll
+C:\Users\user\Desktop\RANIABOUKER\RT4\Angular\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.pdb
+C:\Users\user\Desktop\RANIABOUKER\RT4\PU\Angular\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.deps.json
+C:\Users\user\Desktop\RANIABOUKER\RT4\PU\Angular\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.runtimeconfig.json
+C:\Users\user\Desktop\RANIABOUKER\RT4\PU\Angular\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.runtimeconfig.dev.json
+C:\Users\user\Desktop\RANIABOUKER\RT4\PU\Angular\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.dll
+C:\Users\user\Desktop\RANIABOUKER\RT4\PU\Angular\WebApplication2\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.pdb
+C:\Users\user\Desktop\RANIABOUKER\RT4\PU\Angular\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\RANIABOUKER\RT4\PU\Angular\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RANIABOUKER\RT4\PU\Angular\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RANIABOUKER\RT4\PU\Angular\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfo.cs
+C:\Users\user\Desktop\RANIABOUKER\RT4\PU\Angular\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.dll
+C:\Users\user\Desktop\RANIABOUKER\RT4\PU\Angular\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.pdb
+C:\Users\user\Desktop\RANIABOUKER\RT4\PU\Angular\WebApplication2\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
